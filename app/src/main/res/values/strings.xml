@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">杨楠2024110539</string>
+    <string name="section1_title">区一：代码动态生成TextView</string>
+    <string name="btn_add_text">添加一条动态文本</string>
+    <string name="section2_title">区二：MVC课程顾问 ProgramAdviser</string>
+    <string name="prompt_new_lang">新语言推荐</string>
+    <string name="btn_query">确定</string>
+    <string name="recommend_lang">kotlin</string>
+    <string name="result_hint">点下方按钮查看推荐…</string>
+    <string name="dynamic_text_format">动态生成的第%1$d条TextView</string>
+</resources>
